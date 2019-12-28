@@ -32,9 +32,8 @@ end
 
 def using_uniq(haircuts)
   return haircuts.uniq()
-end 
+end
 
 def using_flatten(instruments)
   return instruments.flatten()
-end 
-
+end
